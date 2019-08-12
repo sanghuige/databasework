@@ -21,6 +21,7 @@
         </a>
 
         <input value="测试"/>
+        <input value=测试二/>
     </div>
 </form>
 </body>
