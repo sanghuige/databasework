@@ -19,6 +19,8 @@
            id="h-submitBtn" href="#" onclick="document:search_form.submit();">
             删除
         </a>
+
+        <input value="测试"/>
     </div>
 </form>
 </body>
